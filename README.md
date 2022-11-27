@@ -5,7 +5,7 @@
 Добавил текст через браузер. Add english text in browser.
 
 ## Картинки
-Это яблоко
+Это яблоко. This apple.
 
 ![Это яблоко](apple.jpg)
 
